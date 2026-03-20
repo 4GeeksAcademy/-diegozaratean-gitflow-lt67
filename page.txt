@@ -1,2 +1,3 @@
 a simple text
-gestion de reservas
+publicar libro 
+gestion reservas
